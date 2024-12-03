@@ -636,8 +636,9 @@ In the search results, click an agreement to view it. The agreement details pane
 1. In the **Agreements search** display, click **Actions**. 
 2. At the bottom of the Actions menu is the heading **Show columns** followed by a list of available columns with checkboxes to display or hide those columns. All columns are displayed by default. The columns available should be (in order): Name, Status, Start date, End date, Cancellation deadline, and Description. 
 3. When you uncheck a box, that column is removed from the display of the multi-column list.
-4. When you check a box, that column is added to the display of the multi-column list.
-5. When you go to the agreement search and sort view in the same session, the selection of which columns display persists.
+   * Note: the Name column is the main column and cannot be selected or unselected. 
+5. When you check a box, that column is added to the display of the multi-column list.
+6. When you go to the agreement search and sort view in the same session, the selection of which columns display persists.
 
 
 ## Editing an agreement
@@ -844,8 +845,9 @@ In order to view all of the agreement lines associated with a particular agreeme
 3. In the **Agreement lines** section, click **Actions**. 
 4. At the bottom of the Actions menu is the heading **Show columns** followed by a list of available columns with checkboxes to display or hide those columns. All columns are displayed by default. The columns available should be (in order): Name / Description, Provider, Publication type, Count, Note, Coverage, Custom coverage indicator, Active from, Active to, and PO Line. 
 5. When you uncheck a box, that column is removed from the display of the multi-column list.
-6. When you check a box, that column is added to the display of the multi-column list.
-7. When you go to the agreement lines multi-column list view for any agreement in the same session, the selection of which columns display persists. 
+   * Note: the Name column is the main column and cannot be selected or unselected.  
+7. When you check a box, that column is added to the display of the multi-column list.
+8. When you go to the agreement lines multi-column list view for any agreement in the same session, the selection of which columns display persists. 
 
 
 ## Searching for agreement lines
@@ -896,16 +898,6 @@ To search for agreement lines assigned specific tags, follow these steps:
 
 1. In the **Search & filter** pane, click **Tags**.
 2. Select the tag(s) from the drop-down list. Your results appear in the Agreement lines pane.
-
-## Controlling which columns display in the Agreement lines multi-column list
-
-
-
-1. In the **Agreement lines search** display, click **Actions**. 
-2. At the bottom of the Actions menu is the heading **Show columns** followed by a list of available columns with checkboxes to display or hide those columns. All columns are displayed by default. The columns available should be (in order): Name / Reference, Description, Parent agreement, Note, Active from, and Active to. 
-3. When you uncheck a box, that column is removed from the display of the multi-column list.
-4. When you check a box, that column is added to the display of the multi-column list.
-5. When you go to the agreement lines search and sort view in the same session, the selection of which columns display persists.
 
 
 ## Adding a tag to an agreement
